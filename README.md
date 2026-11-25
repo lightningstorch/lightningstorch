@@ -6,11 +6,11 @@
 <p>
   <a href="https://www.linkedin.com/in/manuel-spiss"><img src="https://img.shields.io/badge/LinkedIn-manuel--spiss-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Linz-Austria-0d9488?style=flat-square&logo=googlemaps&logoColor=white" alt="Linz, Austria">
-  <img src="https://img.shields.io/badge/M.Sc.-Networks_%26_Security-2563eb?style=flat-square" alt="M.Sc. Networks & Security">
+  <img src="https://img.shields.io/badge/Master_Computer_Science-Networks_%26_Security-2563eb?style=flat-square" alt="Master Computer Science, Networks & Security">
   <img src="https://img.shields.io/badge/German_%C2%B7_English-59636e?style=flat-square" alt="German, English">
 </p>
 
-I'm a Computer Science Master's student at Johannes Kepler University Linz, specializing in Networks & Security, and I graduate in summer 2027. Before computer science I trained as a design engineer in tool making and worked as a product developer at Julius Blum, where I was responsible for the drawer systems LEGRABOX and MOVENTO.
+I'm a Computer Science Master's student at Johannes Kepler University Linz, specializing in Networks & Security. I expect to graduate in summer 2027 with the Dipl.-Ing. degree. Before computer science I trained as a design engineer in tool making and worked as a product developer at Julius Blum, where I was responsible for the drawer systems LEGRABOX and MOVENTO.
 
 I like systems that run on real networks and real hardware: backends that move data in real time, devices at the edge, and the infrastructure underneath that has to stay secure.
 
