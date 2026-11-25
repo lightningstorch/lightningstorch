@@ -16,6 +16,7 @@ I like systems that run on real networks and real hardware: backends that move d
 
 ### What I'm building
 
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-thesis-dark.svg">
   <img src="assets/card-thesis-light.svg" width="49%" alt="Master's thesis: multi-camera person tracking">
@@ -32,11 +33,13 @@ I like systems that run on real networks and real hardware: backends that move d
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-homelab-dark.svg">
   <img src="assets/card-homelab-light.svg" width="49%" alt="Homelab: self-hosted infrastructure">
 </picture>
+</p>
 
 Most of this lives in private repositories on my own Gitea server. I'm happy to walk through the code in an interview.
 
 ### Public projects
 
+<p>
 <a href="https://github.com/lightningstorch/Bachelor_VoIP_Softphone"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-voip-dark.svg">
   <img src="assets/card-voip-light.svg" width="49%" alt="VoIP call analyzer, bachelor's thesis">
@@ -49,12 +52,13 @@ Most of this lives in private repositories on my own Gitea server. I'm happy to 
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-weather-dark.svg">
   <img src="assets/card-weather-light.svg" width="49%" alt="Embedded weather station, team project">
 </picture></a>
+</p>
 
 ### Tech I work with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,swift,kotlin,java,fastapi,postgres,sqlite,redis,rabbitmq,supabase,docker,linux,git,raspberrypi,pytorch,opencv&perline=8&theme=dark">
-  <img src="https://skillicons.dev/icons?i=python,swift,kotlin,java,fastapi,postgres,sqlite,redis,rabbitmq,supabase,docker,linux,git,raspberrypi,pytorch,opencv&perline=8&theme=light" alt="Python, Swift, Kotlin, Java, FastAPI, PostgreSQL, SQLite, Redis, RabbitMQ, Supabase, Docker, Linux, Git, Raspberry Pi, PyTorch, OpenCV">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cswift%2Ckotlin%2Cjava%2Cfastapi%2Cpostgres%2Csqlite%2Credis%2Crabbitmq%2Csupabase%2Cdocker%2Clinux%2Cgit%2Craspberrypi%2Cpytorch%2Copencv&perline=8&theme=dark">
+  <img src="https://skillicons.dev/icons?i=python%2Cswift%2Ckotlin%2Cjava%2Cfastapi%2Cpostgres%2Csqlite%2Credis%2Crabbitmq%2Csupabase%2Cdocker%2Clinux%2Cgit%2Craspberrypi%2Cpytorch%2Copencv&perline=8&theme=light" alt="Python, Swift, Kotlin, Java, FastAPI, PostgreSQL, SQLite, Redis, RabbitMQ, Supabase, Docker, Linux, Git, Raspberry Pi, PyTorch, OpenCV">
 </picture>
 
 Also: NATS, MQTT, Wireshark/tshark, CrowdSec, reverse proxies, DNS filtering, VPN, TrueNAS, NVIDIA Jetson, ROS 2.
