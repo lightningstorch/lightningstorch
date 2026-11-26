@@ -1,66 +1,54 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="Manuel Spiss: Networks & Security, Backend, Edge AI">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Manuel Spiss. Networks and security, backend, edge AI. Computer Science (Master), JKU Linz.">
 </picture>
 
-<p>
-  <a href="https://www.linkedin.com/in/manuel-spiss"><img src="https://img.shields.io/badge/LinkedIn-manuel--spiss-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Linz-Austria-0d9488?style=flat-square&logo=googlemaps&logoColor=white" alt="Linz, Austria">
-  <img src="https://img.shields.io/badge/Master_Computer_Science-Networks_%26_Security-2563eb?style=flat-square" alt="Master Computer Science, Networks & Security">
-  <img src="https://img.shields.io/badge/German_%C2%B7_English-59636e?style=flat-square" alt="German, English">
-</p>
+I study Computer Science at Johannes Kepler University Linz, in the Master's programme with a focus on networks and security. I expect to graduate in summer 2027 with the Dipl.-Ing. degree. Before computer science I trained as a design engineer in tool making and worked as a product developer at Julius Blum, where I was responsible for the drawer systems LEGRABOX and MOVENTO.
 
-I'm a Computer Science Master's student at Johannes Kepler University Linz, specializing in Networks & Security. I expect to graduate in summer 2027 with the Dipl.-Ing. degree. Before computer science I trained as a design engineer in tool making and worked as a product developer at Julius Blum, where I was responsible for the drawer systems LEGRABOX and MOVENTO.
+I mostly work on backend services, on software for edge devices, and on the servers and networks underneath.
 
-I like systems that run on real networks and real hardware: backends that move data in real time, devices at the edge, and the infrastructure underneath that has to stay secure.
+### Working on now
 
-### What I'm building
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/fig-thesis-dark.svg"><img align="left" width="112" src="assets/fig-thesis-light.svg" alt=""></picture>**Multi-camera person tracking**<br>
+Distributed tracking across several cameras with biometric identification and verification.<br>
+<sub>Master's thesis · Python, PyTorch, FastAPI, Re-ID</sub><br clear="left">
 
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-thesis-dark.svg">
-  <img src="assets/card-thesis-light.svg" width="49%" alt="Master's thesis: multi-camera person tracking">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-edge-dark.svg">
-  <img src="assets/card-edge-light.svg" width="49%" alt="Startup project: real-time platform for edge AI">
-</picture>
-<a href="https://refismart.app"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-refismart-dark.svg">
-  <img src="assets/card-refismart-light.svg" width="49%" alt="Refismart iOS app">
-</picture></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-homelab-dark.svg">
-  <img src="assets/card-homelab-light.svg" width="49%" alt="Homelab: self-hosted infrastructure">
-</picture>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/fig-edge-dark.svg"><img align="left" width="112" src="assets/fig-edge-light.svg" alt=""></picture>**Real-time platform for edge AI**<br>
+Multi-tenant backend with role-based access (JWT), a camera device engine, and AI on NVIDIA Jetson.<br>
+<sub>Startup project, not public yet · Python, NATS, Redis, Jetson</sub><br clear="left">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/fig-refismart-dark.svg"><img align="left" width="112" src="assets/fig-refismart-light.svg" alt=""></picture>**[Refismart](https://refismart.app)**<br>
+Pantry and grocery management with receipt scanning (OCR) and sync through a self-hosted Supabase.<br>
+<sub>iOS app, in beta · Swift, Vision OCR, Supabase</sub><br clear="left">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/fig-homelab-dark.svg"><img align="left" width="112" src="assets/fig-homelab-light.svg" alt=""></picture>**Self-hosted infrastructure**<br>
+Two-tier reverse proxy, CrowdSec with AppSec/WAF, network-wide DNS filtering, VPN and local LLMs.<br>
+<sub>Homelab · Linux, Docker, CrowdSec, TrueNAS</sub><br clear="left">
 
 Most of this lives in private repositories on my own Gitea server. I'm happy to walk through the code in an interview.
 
-### Public projects
+### Public code
 
-<p>
-<a href="https://github.com/lightningstorch/Bachelor_VoIP_Softphone"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-voip-dark.svg">
-  <img src="assets/card-voip-light.svg" width="49%" alt="VoIP call analyzer, bachelor's thesis">
-</picture></a>
-<a href="https://github.com/lightningstorch/Bachelor_VoIP_UI"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-voip-ui-dark.svg">
-  <img src="assets/card-voip-ui-light.svg" width="49%" alt="Web UI for the VoIP call analyzer">
-</picture></a>
-<a href="https://github.com/lightningstorch/Embedded_Wetter_Station"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-weather-dark.svg">
-  <img src="assets/card-weather-light.svg" width="49%" alt="Embedded weather station, team project">
-</picture></a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/fig-voip-dark.svg"><img align="left" width="112" src="assets/fig-voip-light.svg" alt=""></picture>**[VoIP call analyzer](https://github.com/lightningstorch/Bachelor_VoIP_Softphone)**<br>
+Rebuilds SIP/RTP calls from live traffic or PCAP files and detects who spoke when.<br>
+<sub>Bachelor's thesis · tshark, RabbitMQ, FastAPI, Docker</sub><br clear="left">
 
-### Tech I work with
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/fig-voip-ui-dark.svg"><img align="left" width="112" src="assets/fig-voip-ui-light.svg" alt=""></picture>**[VoIP analyzer dashboard](https://github.com/lightningstorch/Bachelor_VoIP_UI)**<br>
+Capture upload, live log stream over SSE, call timelines and speaking-time charts.<br>
+<sub>Web UI for the analyzer · Streamlit, Plotly, httpx-sse</sub><br clear="left">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cswift%2Ckotlin%2Cjava%2Cfastapi%2Cpostgres%2Csqlite%2Credis%2Crabbitmq%2Csupabase%2Cdocker%2Clinux%2Cgit%2Craspberrypi%2Cpytorch%2Copencv&perline=8&theme=dark">
-  <img src="https://skillicons.dev/icons?i=python%2Cswift%2Ckotlin%2Cjava%2Cfastapi%2Cpostgres%2Csqlite%2Credis%2Crabbitmq%2Csupabase%2Cdocker%2Clinux%2Cgit%2Craspberrypi%2Cpytorch%2Copencv&perline=8&theme=light" alt="Python, Swift, Kotlin, Java, FastAPI, PostgreSQL, SQLite, Redis, RabbitMQ, Supabase, Docker, Linux, Git, Raspberry Pi, PyTorch, OpenCV">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/fig-weather-dark.svg"><img align="left" width="112" src="assets/fig-weather-light.svg" alt=""></picture>**[Embedded weather station](https://github.com/lightningstorch/Embedded_Wetter_Station)**<br>
+Three Raspberry Pis talking over MQTT, with SQLite storage and a live dashboard.<br>
+<sub>Team project · Raspberry Pi, MQTT, SQLAlchemy</sub><br clear="left">
 
-Also: NATS, MQTT, Wireshark/tshark, CrowdSec, reverse proxies, DNS filtering, VPN, TrueNAS, NVIDIA Jetson, ROS 2.
+### Tools
+
+<table>
+  <tr><td><b>Languages</b></td><td>Python, Swift, Kotlin, Java</td></tr>
+  <tr><td><b>Backend and data</b></td><td>FastAPI, PostgreSQL, SQLite, Redis, RabbitMQ, NATS, MQTT, Supabase</td></tr>
+  <tr><td><b>Infrastructure</b></td><td>Linux, Docker, Git, reverse proxies, TrueNAS, Raspberry Pi</td></tr>
+  <tr><td><b>Security and networks</b></td><td>CrowdSec, DNS filtering, VPN, Wireshark/tshark</td></tr>
+  <tr><td><b>AI and vision</b></td><td>PyTorch, OpenCV, NVIDIA Jetson, ROS 2</td></tr>
+</table>
 
 I'm looking for roles in software development, IT security and networking. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/manuel-spiss).

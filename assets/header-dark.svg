@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="236" viewBox="0 0 880 236" role="img" aria-label="Manuel Spiss. Networks and security, backend, edge AI. Next to the name: a SIP call drawn as a sequence diagram.">
+<text x="0" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="-1.6" fill="#f0f6fc">Manuel Spiss</text>
+<text x="2" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="20" fill="#9198a1">Networks and security, backend, edge AI</text>
+<text x="2" y="176" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#656c76">Computer Science (Master), JKU Linz</text>
+<text x="566" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9198a1">caller</text>
+<line x1="566" y1="32" x2="566" y2="228" stroke="#3d444d" stroke-width="1.4"/>
+<text x="846" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9198a1">callee</text>
+<line x1="846" y1="32" x2="846" y2="228" stroke="#3d444d" stroke-width="1.4"/>
+<path d="M571,60 H841 M834,56 L841,60 L834,64" fill="none" stroke="#9198a1" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="706.0" y="53" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f0f6fc">INVITE</text>
+<text x="552" y="64" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#656c76">0.000</text>
+<path d="M841,87 H571 M578,83 L571,87 L578,91" fill="none" stroke="#9198a1" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="706.0" y="80" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f0f6fc">180 Ringing</text>
+<text x="552" y="91" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#656c76">0.012</text>
+<path d="M841,114 H571 M578,110 L571,114 L578,118" fill="none" stroke="#9198a1" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="706.0" y="107" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f0f6fc">200 OK</text>
+<text x="552" y="118" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#656c76">2.841</text>
+<path d="M571,141 H841 M834,137 L841,141 L834,145" fill="none" stroke="#9198a1" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="706.0" y="134" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f0f6fc">ACK</text>
+<text x="552" y="145" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#656c76">2.843</text>
+<path d="M571,212 H841 M834,208 L841,212 L834,216" fill="none" stroke="#9198a1" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="706.0" y="205" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f0f6fc">BYE</text>
+<text x="552" y="216" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#656c76">41.507</text>
+<rect x="571" y="156" width="270" height="30" rx="4" fill="#d29922" fill-opacity="0.20"/>
+<path d="M586,166 L579,171 L586,176 M826,166 L833,171 L826,176" fill="none" stroke="#d29922" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="706.0" y="175" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#e3b341">RTP audio</text>
+</svg>
